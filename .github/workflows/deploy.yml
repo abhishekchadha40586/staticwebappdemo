@@ -40,4 +40,4 @@ jobs:
 # /,"",out,true
 # src,"",out,true
 # /src,"",out,true ->Removed src folder
-# /,"","out",removed amd added next export in package.json, removed src folder
+# /,"","out",removed amd added next export in package.json, removed src folder, corrected css path and removes pages/api
